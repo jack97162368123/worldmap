@@ -2,7 +2,6 @@ import React, { useRef, useEffect } from "react";
 import * as topojson from "topojson-client";
 import * as d3 from "d3";
 import "./App.css";
-import { symbolsStroke } from "d3";
 
 function App() {
   const svgRef = useRef();
