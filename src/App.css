@@ -1,15 +1,17 @@
 .App{
   text-align: center;
+  margin-top: 100px;
+  background-color: #f6f6f6;
+  
 }
 
 
 svg{
   
-  stroke: white;
+  stroke: black;
   stroke-width: .5;
-  fill: #ffffff;
-  height: 100vh;
-  width: 100vh;
+  fill: #d3d3d3;
+ 
 
 }
 
